@@ -9,6 +9,6 @@
 #wall > #tag-3  {
   display: none;
 }
-.parent .slick {
+#wall .parent {
   display: none;
 }
