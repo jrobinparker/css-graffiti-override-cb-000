@@ -1,4 +1,4 @@
-#wall ~ div  {
+#wall + div  {
   display: none;
 }
 
